@@ -1,12 +1,12 @@
 {
   "name": "portal_noticias",
   "version": "1.0.0",
-  "description": "Site de notícias",
+  "description": "Portal Notícias",
   "main": "noticias.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Claudio Junior",
+  "author": "Douglas Rodrigues Garcia",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
